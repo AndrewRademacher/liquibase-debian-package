@@ -1,0 +1,9 @@
+Package: liquibase
+Version: 3.5.5
+Architecture: all
+Essential: no
+Priority: optional
+Depends: default-jre
+Section: database
+Maintainer: Andrew Rademacher <andrewrademacher@icloud.com>
+Homepage: http://www.liquibase.org/
