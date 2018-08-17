@@ -7,3 +7,4 @@ Depends: default-jre
 Section: database
 Maintainer: Andrew Rademacher <andrewrademacher@icloud.com>
 Homepage: http://www.liquibase.org/
+Description: Database migration management tool.
